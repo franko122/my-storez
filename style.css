@@ -149,7 +149,7 @@
     }
     .loki{
         padding: 10px;
-        background-color: gray;
+        background-color: rgb(7, 60, 85);
         color: white;
         font-size: 25px; 
     }
@@ -357,7 +357,7 @@
     }
     .loki{
         padding: 10px;
-        background-color: gray;
+        background-color: rgb(7, 60, 85);
         color: white;
         font-size: 35px;
         text-align: center;
@@ -572,7 +572,7 @@
     }
     .loki{
         padding: 10px;
-        background-color: gray;
+        background-color: rgb(7, 60, 85);
         color: white;
         font-size: 35px;
         text-align: center;
